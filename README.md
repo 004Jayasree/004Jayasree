@@ -4,7 +4,6 @@ public class GradeCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Input marks obtained in each subject
         System.out.println("Enter marks obtained in each subject (out of 100):");
         int numOfSubjects = 0;
         int totalMarks = 0;
